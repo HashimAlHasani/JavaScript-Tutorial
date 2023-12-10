@@ -4,7 +4,8 @@ Welcome to my JavaScript Learning Notes Repository!
 
 ## Table of Contents
 
-- [Part 1](./JavaScript-P1/)
+- [Part 1](./JavaScript-P1/): Manipulating HTML with JavaScript
+- [Part 1](./JavaScript-P2/): Basics - inputs/outputs/comments
 
 ## About This Repository
 
