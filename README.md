@@ -7,7 +7,7 @@ Welcome to my JavaScript Learning Notes Repository!
 - [Part 1](./JavaScript-P1/): Manipulating HTML with JavaScript
 - [Part 2](./JavaScript-P2/): Basics - Inputs/Outputs/Comments
 - [Part 3](./JavaScript-P3/): Variable Declaration and Initialization
-- [Part 4](./JavaScript-P4/): Not uploaded yet
+- [Part 4](./JavaScript-P4/): IIFE - immediately invoked function expression
 
 ## About This Repository
 
