@@ -6,7 +6,7 @@ Welcome to my JavaScript Learning Notes Repository!
 
 - [Part 1](./JavaScript-P1/): Manipulating HTML with JavaScript
 - [Part 2](./JavaScript-P2/): Basics - Inputs/Outputs/Comments
-- [Part 3](./JavaScript-P3/): Not uploaded yet
+- [Part 3](./JavaScript-P3/): Variable Declaration and Initialization
 
 ## About This Repository
 
