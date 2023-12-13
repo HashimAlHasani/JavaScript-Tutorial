@@ -9,6 +9,7 @@ Welcome to my JavaScript Learning Notes Repository!
 - [Part 3](./JavaScript-P3/): Variable Declaration and Initialization
 - [Part 4](./JavaScript-P4/): IIFE - immediately invoked function expression
 - [Part 5](./JavaScript-P5/): Important Notes
+- [Part 6](./JavaScript-P6/): var/let/const
 
 ## About This Repository
 
