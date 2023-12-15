@@ -11,6 +11,7 @@ Welcome to my JavaScript Learning Notes Repository!
 - [Part 5](./JavaScript-P5/): Important Notes
 - [Part 6](./JavaScript-P6/): var/let/const
 - [Part 7](./JavaScript-P7/): Objects vs Primitives
+- [Part 8](./JavaScript-P8/): Difference between primitives and objects
 
 ## About This Repository
 
