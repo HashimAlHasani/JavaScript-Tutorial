@@ -10,6 +10,7 @@ Welcome to my JavaScript Learning Notes Repository!
 - [Part 4](./JavaScript-P4/): IIFE - immediately invoked function expression
 - [Part 5](./JavaScript-P5/): Important Notes
 - [Part 6](./JavaScript-P6/): var/let/const
+- [Part 7](./JavaScript-P7/): Objects vs Primitives
 
 ## About This Repository
 
