@@ -14,7 +14,7 @@ Welcome to my JavaScript Learning Notes Repository!
 - [Part 8](./JavaScript-P8/): Difference between primitives and objects
 - [Part 9](./JavaScript-P9/): Math/Number
 - [Part 10](./JavaScript-P10/): Increment/Decrement
-- [Part 11](./JavaScript-P11/): Not Uploaded Yet
+- [Part 11](./JavaScript-P11/): parseInt()
 - [Part 12](./JavaScript-P12/): Not Uploaded Yet
 - [Part 13](./JavaScript-P13/): Not Uploaded Yet
 - [Part 14](./JavaScript-P14/): Not Uploaded Yet
