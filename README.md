@@ -17,7 +17,7 @@ Welcome to my JavaScript Learning Notes Repository!
 - [Part 11](./JavaScript-P11/): parseInt()
 - [Part 12](./JavaScript-P12/): Number Conversion
 - [Part 13](./JavaScript-P13/): More on Number and Math object
-- [Part 14](./JavaScript-P14/): Not Uploaded Yet
+- [Part 14](./JavaScript-P14/): Strings
 - [Part 15](./JavaScript-P15/): Not Uploaded Yet
 - [Part 16](./JavaScript-P16/): Not Uploaded Yet
 - [Part 17](./JavaScript-P17/): Not Uploaded Yet
