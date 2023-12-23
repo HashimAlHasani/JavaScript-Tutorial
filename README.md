@@ -4,72 +4,72 @@ Welcome to my JavaScript Learning Notes Repository!
 
 ## Table of Contents
 
-- [Part 1](./JavaScript-P1/): Manipulating HTML with JavaScript
-- [Part 2](./JavaScript-P2/): Basics - Inputs/Outputs/Comments
-- [Part 3](./JavaScript-P3/): Variable Declaration and Initialization
-- [Part 4](./JavaScript-P4/): IIFE - immediately invoked function expression
-- [Part 5](./JavaScript-P5/): Important Notes
-- [Part 6](./JavaScript-P6/): var/let/const
-- [Part 7](./JavaScript-P7/): Objects vs Primitives
-- [Part 8](./JavaScript-P8/): Difference between primitives and objects
-- [Part 9](./JavaScript-P9/): Math/Number
-- [Part 10](./JavaScript-P10/): Increment/Decrement
-- [Part 11](./JavaScript-P11/): parseInt()
-- [Part 12](./JavaScript-P12/): Number Conversion
-- [Part 13](./JavaScript-P13/): More on Number and Math object
-- [Part 14](./JavaScript-P14/): Strings
-- [Part 15](./JavaScript-P15/): String Methods
-- [Part 16](./JavaScript-P16/): Not Uploaded Yet
-- [Part 17](./JavaScript-P17/): Not Uploaded Yet
-- [Part 18](./JavaScript-P18/): Not Uploaded Yet
-- [Part 19](./JavaScript-P19/): Not Uploaded Yet
-- [Part 20](./JavaScript-P20/): Not Uploaded Yet
-- [Part 21](./JavaScript-P21/): Not Uploaded Yet
-- [Part 22](./JavaScript-P22/): Not Uploaded Yet
-- [Part 23](./JavaScript-P23/): Not Uploaded Yet
-- [Part 24](./JavaScript-P24/): Not Uploaded Yet
-- [Part 25](./JavaScript-P25/): Not Uploaded Yet
-- [Part 26](./JavaScript-P26/): Not Uploaded Yet
-- [Part 27](./JavaScript-P27/): Not Uploaded Yet
-- [Part 28](./JavaScript-P28/): Not Uploaded Yet
-- [Part 29](./JavaScript-P29/): Not Uploaded Yet
-- [Part 30](./JavaScript-P30/): Not Uploaded Yet
-- [Part 31](./JavaScript-P31/): Not Uploaded Yet
-- [Part 32](./JavaScript-P32/): Not Uploaded Yet
-- [Part 33](./JavaScript-P33/): Not Uploaded Yet
-- [Part 34](./JavaScript-P34/): Not Uploaded Yet
-- [Part 35](./JavaScript-P35/): Not Uploaded Yet
-- [Part 36](./JavaScript-P36/): Not Uploaded Yet
-- [Part 37](./JavaScript-P37/): Not Uploaded Yet
-- [Part 38](./JavaScript-P38/): Not Uploaded Yet
-- [Part 39](./JavaScript-P39/): Not Uploaded Yet
-- [Part 40](./JavaScript-P40/): Not Uploaded Yet
-- [Part 41](./JavaScript-P41/): Not Uploaded Yet
-- [Part 42](./JavaScript-P42/): Not Uploaded Yet
-- [Part 43](./JavaScript-P43/): Not Uploaded Yet
-- [Part 44](./JavaScript-P44/): Not Uploaded Yet
-- [Part 45](./JavaScript-P45/): Not Uploaded Yet
-- [Part 46](./JavaScript-P46/): Not Uploaded Yet
-- [Part 47](./JavaScript-P47/): Not Uploaded Yet
-- [Part 48](./JavaScript-P48/): Not Uploaded Yet
-- [Part 49](./JavaScript-P49/): Not Uploaded Yet
-- [Part 50](./JavaScript-P50/): Not Uploaded Yet
-- [Part 51](./JavaScript-P51/): Not Uploaded Yet
-- [Part 52](./JavaScript-P52/): Not Uploaded Yet
-- [Part 53](./JavaScript-P53/): Not Uploaded Yet
-- [Part 54](./JavaScript-P54/): Not Uploaded Yet
-- [Part 55](./JavaScript-P55/): Not Uploaded Yet
-- [Part 56](./JavaScript-P56/): Not Uploaded Yet
-- [Part 57](./JavaScript-P57/): Not Uploaded Yet
-- [Part 58](./JavaScript-P58/): Not Uploaded Yet
-- [Part 59](./JavaScript-P59/): Not Uploaded Yet
-- [Part 60](./JavaScript-P60/): Not Uploaded Yet
-- [Part 61](./JavaScript-P61/): Not Uploaded Yet
-- [Part 62](./JavaScript-P62/): Not Uploaded Yet
-- [Part 63](./JavaScript-P63/): Not Uploaded Yet
-- [Part 64](./JavaScript-P64/): Not Uploaded Yet
-- [Part 65](./JavaScript-P65/): Not Uploaded Yet
-- [Part 66](./JavaScript-P66/): Not Uploaded Yet
+- [Part 1](JS-Parts/JavaScript-P1/): Manipulating HTML with JavaScript
+- [Part 2](JS-Parts/JavaScript-P2/): Basics - Inputs/Outputs/Comments
+- [Part 3](JS-Parts/JavaScript-P3/): Variable Declaration and Initialization
+- [Part 4](JS-Parts/JavaScript-P4/): IIFE - immediately invoked function expression
+- [Part 5](JS-Parts/JavaScript-P5/): Important Notes
+- [Part 6](JS-Parts/JavaScript-P6/): var/let/const
+- [Part 7](JS-Parts/JavaScript-P7/): Objects vs Primitives
+- [Part 8](JS-Parts/JavaScript-P8/): Difference between primitives and objects
+- [Part 9](JS-Parts/JavaScript-P9/): Math/Number
+- [Part 10](JS-Parts/JavaScript-P10/): Increment/Decrement
+- [Part 11](JS-Parts/JavaScript-P11/): parseInt()
+- [Part 12](JS-Parts/JavaScript-P12/): Number Conversion
+- [Part 13](JS-Parts/JavaScript-P13/): More on Number and Math object
+- [Part 14](JS-Parts/JavaScript-P14/): Strings
+- [Part 15](JS-Parts/JavaScript-P15/): String Methods
+- [Part 16](JS-Parts/JavaScript-P16/): Not Uploaded Yet
+- [Part 17](JS-Parts/JavaScript-P17/): Not Uploaded Yet
+- [Part 18](JS-Parts/JavaScript-P18/): Not Uploaded Yet
+- [Part 19](JS-Parts/JavaScript-P19/): Not Uploaded Yet
+- [Part 20](JS-Parts/JavaScript-P20/): Not Uploaded Yet
+- [Part 21](JS-Parts/JavaScript-P21/): Not Uploaded Yet
+- [Part 22](JS-Parts/JavaScript-P22/): Not Uploaded Yet
+- [Part 23](JS-Parts/JavaScript-P23/): Not Uploaded Yet
+- [Part 24](JS-Parts/JavaScript-P24/): Not Uploaded Yet
+- [Part 25](JS-Parts/JavaScript-P25/): Not Uploaded Yet
+- [Part 26](JS-Parts/JavaScript-P26/): Not Uploaded Yet
+- [Part 27](JS-Parts/JavaScript-P27/): Not Uploaded Yet
+- [Part 28](JS-Parts/JavaScript-P28/): Not Uploaded Yet
+- [Part 29](JS-Parts/JavaScript-P29/): Not Uploaded Yet
+- [Part 30](JS-Parts/JavaScript-P30/): Not Uploaded Yet
+- [Part 31](JS-Parts/JavaScript-P31/): Not Uploaded Yet
+- [Part 32](JS-Parts/JavaScript-P32/): Not Uploaded Yet
+- [Part 33](JS-Parts/JavaScript-P33/): Not Uploaded Yet
+- [Part 34](JS-Parts/JavaScript-P34/): Not Uploaded Yet
+- [Part 35](JS-Parts/JavaScript-P35/): Not Uploaded Yet
+- [Part 36](JS-Parts/JavaScript-P36/): Not Uploaded Yet
+- [Part 37](JS-Parts/JavaScript-P37/): Not Uploaded Yet
+- [Part 38](JS-Parts/JavaScript-P38/): Not Uploaded Yet
+- [Part 39](JS-Parts/JavaScript-P39/): Not Uploaded Yet
+- [Part 40](JS-Parts/JavaScript-P40/): Not Uploaded Yet
+- [Part 41](JS-Parts/JavaScript-P41/): Not Uploaded Yet
+- [Part 42](JS-Parts/JavaScript-P42/): Not Uploaded Yet
+- [Part 43](JS-Parts/JavaScript-P43/): Not Uploaded Yet
+- [Part 44](JS-Parts/JavaScript-P44/): Not Uploaded Yet
+- [Part 45](JS-Parts/JavaScript-P45/): Not Uploaded Yet
+- [Part 46](JS-Parts/JavaScript-P46/): Not Uploaded Yet
+- [Part 47](JS-Parts/JavaScript-P47/): Not Uploaded Yet
+- [Part 48](JS-Parts/JavaScript-P48/): Not Uploaded Yet
+- [Part 49](JS-Parts/JavaScript-P49/): Not Uploaded Yet
+- [Part 50](JS-Parts/JavaScript-P50/): Not Uploaded Yet
+- [Part 51](JS-Parts/JavaScript-P51/): Not Uploaded Yet
+- [Part 52](JS-Parts/JavaScript-P52/): Not Uploaded Yet
+- [Part 53](JS-Parts/JavaScript-P53/): Not Uploaded Yet
+- [Part 54](JS-Parts/JavaScript-P54/): Not Uploaded Yet
+- [Part 55](JS-Parts/JavaScript-P55/): Not Uploaded Yet
+- [Part 56](JS-Parts/JavaScript-P56/): Not Uploaded Yet
+- [Part 57](JS-Parts/JavaScript-P57/): Not Uploaded Yet
+- [Part 58](JS-Parts/JavaScript-P58/): Not Uploaded Yet
+- [Part 59](JS-Parts/JavaScript-P59/): Not Uploaded Yet
+- [Part 60](JS-Parts/JavaScript-P60/): Not Uploaded Yet
+- [Part 61](JS-Parts/JavaScript-P61/): Not Uploaded Yet
+- [Part 62](JS-Parts/JavaScript-P62/): Not Uploaded Yet
+- [Part 63](JS-Parts/JavaScript-P63/): Not Uploaded Yet
+- [Part 64](JS-Parts/JavaScript-P64/): Not Uploaded Yet
+- [Part 65](JS-Parts/JavaScript-P65/): Not Uploaded Yet
+- [Part 66](JS-Parts/JavaScript-P66/): Not Uploaded Yet
 
 ## About This Repository
 
