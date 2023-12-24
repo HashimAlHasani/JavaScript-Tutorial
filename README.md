@@ -20,7 +20,7 @@ Welcome to my JavaScript Learning Notes Repository!
 - [Part 14](JS-Parts/JavaScript-P14/): Strings
 - [Part 15](JS-Parts/JavaScript-P15/): String Methods
 - [Part 16](JS-Parts/JavaScript-P16/): More on Objects
-- [Part 17](JS-Parts/JavaScript-P17/): Not Uploaded Yet
+- [Part 17](JS-Parts/JavaScript-P17/): Operators
 - [Part 18](JS-Parts/JavaScript-P18/): Not Uploaded Yet
 - [Part 19](JS-Parts/JavaScript-P19/): Not Uploaded Yet
 - [Part 20](JS-Parts/JavaScript-P20/): Not Uploaded Yet
