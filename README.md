@@ -23,7 +23,7 @@ Welcome to my JavaScript Learning Notes Repository!
 - [Part 17](JS-Parts/JavaScript-P17/): Operators
 - [Part 18](JS-Parts/JavaScript-P18/): Switch Statement
 - [Part 19](JS-Parts/JavaScript-P19/): Ternary Operator
-- [Part 20](JS-Parts/JavaScript-P20/): Not Uploaded Yet
+- [Part 20](JS-Parts/JavaScript-P20/): For/While/Do-While loops
 - [Part 21](JS-Parts/JavaScript-P21/): Not Uploaded Yet
 - [Part 22](JS-Parts/JavaScript-P22/): Not Uploaded Yet
 - [Part 23](JS-Parts/JavaScript-P23/): Not Uploaded Yet
