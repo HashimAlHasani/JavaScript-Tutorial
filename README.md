@@ -26,7 +26,7 @@ Welcome to my JavaScript Learning Notes Repository!
 - [Part 20](JS-Parts/JavaScript-P20/): For/While/Do-While loops
 - [Part 21](JS-Parts/JavaScript-P21/): Loops Examples
 - [Part 22](JS-Parts/JavaScript-P22/): Nested Loops
-- [Part 23](JS-Parts/JavaScript-P23/): Not Uploaded Yet
+- [Part 23](JS-Parts/JavaScript-P23/): Arrays
 - [Part 24](JS-Parts/JavaScript-P24/): Not Uploaded Yet
 - [Part 25](JS-Parts/JavaScript-P25/): Not Uploaded Yet
 - [Part 26](JS-Parts/JavaScript-P26/): Not Uploaded Yet
