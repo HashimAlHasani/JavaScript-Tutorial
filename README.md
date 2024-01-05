@@ -28,7 +28,7 @@ Welcome to my JavaScript Learning Notes Repository!
 - [Part 22](JS-Parts/JavaScript-P22/): Nested Loops
 - [Part 23](JS-Parts/JavaScript-P23/): Arrays
 - [Part 24](JS-Parts/JavaScript-P24/): Traverse an Array
-- [Part 25](JS-Parts/JavaScript-P25/): Not Uploaded Yet
+- [Part 25](JS-Parts/JavaScript-P25/): Calculating Average of An Array
 - [Part 26](JS-Parts/JavaScript-P26/): Not Uploaded Yet
 - [Part 27](JS-Parts/JavaScript-P27/): Not Uploaded Yet
 - [Part 28](JS-Parts/JavaScript-P28/): Not Uploaded Yet
