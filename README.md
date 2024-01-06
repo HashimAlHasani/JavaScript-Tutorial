@@ -30,7 +30,7 @@ Welcome to my JavaScript Learning Notes Repository!
 - [Part 24](JS-Parts/JavaScript-P24/): Traverse an Array
 - [Part 25](JS-Parts/JavaScript-P25/): Calculating Average of An Array
 - [Part 26](JS-Parts/JavaScript-P26/): User Input Into An Array
-- [Part 27](JS-Parts/JavaScript-P27/): Not Uploaded Yet
+- [Part 27](JS-Parts/JavaScript-P27/): Array Methods
 - [Part 28](JS-Parts/JavaScript-P28/): Not Uploaded Yet
 - [Part 29](JS-Parts/JavaScript-P29/): Not Uploaded Yet
 - [Part 30](JS-Parts/JavaScript-P30/): Not Uploaded Yet
