@@ -33,7 +33,7 @@ Welcome to my JavaScript Learning Notes Repository!
 - [Part 27](JS-Parts/JavaScript-P27/): Array Methods
 - [Part 28](JS-Parts/JavaScript-P28/): More Array Methods
 - [Part 29](JS-Parts/JavaScript-P29/): More Array Methods
-- [Part 30](JS-Parts/JavaScript-P30/): Not Uploaded Yet
+- [Part 30](JS-Parts/JavaScript-P30/): forEach Method
 - [Part 31](JS-Parts/JavaScript-P31/): Not Uploaded Yet
 - [Part 32](JS-Parts/JavaScript-P32/): Not Uploaded Yet
 - [Part 33](JS-Parts/JavaScript-P33/): Not Uploaded Yet
