@@ -35,7 +35,7 @@ Welcome to my JavaScript Learning Notes Repository!
 - [Part 29](JS-Parts/JavaScript-P29/): More Array Methods
 - [Part 30](JS-Parts/JavaScript-P30/): forEach Method
 - [Part 31](JS-Parts/JavaScript-P31/): Multi-Dimensional Array
-- [Part 32](JS-Parts/JavaScript-P32/): Not Uploaded Yet
+- [Part 32](JS-Parts/JavaScript-P32/): Break/Continue and Labels
 - [Part 33](JS-Parts/JavaScript-P33/): Not Uploaded Yet
 - [Part 34](JS-Parts/JavaScript-P34/): Not Uploaded Yet
 - [Part 35](JS-Parts/JavaScript-P35/): Not Uploaded Yet
