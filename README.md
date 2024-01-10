@@ -36,7 +36,7 @@ Welcome to my JavaScript Learning Notes Repository!
 - [Part 30](JS-Parts/JavaScript-P30/): forEach Method
 - [Part 31](JS-Parts/JavaScript-P31/): Multi-Dimensional Array
 - [Part 32](JS-Parts/JavaScript-P32/): Break/Continue and Labels
-- [Part 33](JS-Parts/JavaScript-P33/): Not Uploaded Yet
+- [Part 33](JS-Parts/JavaScript-P33/): Date Constructor
 - [Part 34](JS-Parts/JavaScript-P34/): Not Uploaded Yet
 - [Part 35](JS-Parts/JavaScript-P35/): Not Uploaded Yet
 - [Part 36](JS-Parts/JavaScript-P36/): Not Uploaded Yet
