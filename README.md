@@ -38,7 +38,7 @@ Welcome to my JavaScript Learning Notes Repository!
 - [Part 32](JS-Parts/JavaScript-P32/): Break/Continue and Labels
 - [Part 33](JS-Parts/JavaScript-P33/): Date Constructor
 - [Part 34](JS-Parts/JavaScript-P34/): More on Date Constructor
-- [Part 35](JS-Parts/JavaScript-P35/): Not Uploaded Yet
+- [Part 35](JS-Parts/JavaScript-P35/): Functions
 - [Part 36](JS-Parts/JavaScript-P36/): Not Uploaded Yet
 - [Part 37](JS-Parts/JavaScript-P37/): Not Uploaded Yet
 - [Part 38](JS-Parts/JavaScript-P38/): Not Uploaded Yet
