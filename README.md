@@ -42,7 +42,7 @@ Welcome to my JavaScript Learning Notes Repository!
 - [Part 36](JS-Parts/JavaScript-P36/): More Functions
 - [Part 37](JS-Parts/JavaScript-P37/): Function Declaration and Function Expression
 - [Part 38](JS-Parts/JavaScript-P38/): Hoisting
-- [Part 39](JS-Parts/JavaScript-P39/): Not Uploaded Yet
+- [Part 39](JS-Parts/JavaScript-P39/): More Functions
 - [Part 40](JS-Parts/JavaScript-P40/): Not Uploaded Yet
 - [Part 41](JS-Parts/JavaScript-P41/): Not Uploaded Yet
 - [Part 42](JS-Parts/JavaScript-P42/): Not Uploaded Yet
