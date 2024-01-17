@@ -44,7 +44,7 @@ Welcome to my JavaScript Learning Notes Repository!
 - [Part 38](JS-Parts/JavaScript-P38/): Hoisting
 - [Part 39](JS-Parts/JavaScript-P39/): More Functions
 - [Part 40](JS-Parts/JavaScript-P40/): Memoization and Algorithm Optimization
-- [Part 41](JS-Parts/JavaScript-P41/): Not Uploaded Yet
+- [Part 41](JS-Parts/JavaScript-P41/): Function Parameters/Arguments
 - [Part 42](JS-Parts/JavaScript-P42/): Not Uploaded Yet
 - [Part 43](JS-Parts/JavaScript-P43/): Not Uploaded Yet
 - [Part 44](JS-Parts/JavaScript-P44/): Not Uploaded Yet
