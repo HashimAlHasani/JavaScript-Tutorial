@@ -46,7 +46,7 @@ Welcome to my JavaScript Learning Notes Repository!
 - [Part 40](JS-Parts/JavaScript-P40/): Memoization and Algorithm Optimization
 - [Part 41](JS-Parts/JavaScript-P41/): Function Parameters/Arguments
 - [Part 42](JS-Parts/JavaScript-P42/): "this"
-- [Part 43](JS-Parts/JavaScript-P43/): Not Uploaded Yet
+- [Part 43](JS-Parts/JavaScript-P43/): Function Method
 - [Part 44](JS-Parts/JavaScript-P44/): Not Uploaded Yet
 - [Part 45](JS-Parts/JavaScript-P45/): Not Uploaded Yet
 - [Part 46](JS-Parts/JavaScript-P46/): Not Uploaded Yet
