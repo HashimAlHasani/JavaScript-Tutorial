@@ -49,7 +49,7 @@ Welcome to my JavaScript Learning Notes Repository!
 - [Part 43](JS-Parts/JavaScript-P43/): Function Method
 - [Part 44](JS-Parts/JavaScript-P44/): Arrow Function
 - [Part 45](JS-Parts/JavaScript-P45/): Arrow Function vs Normal Function
-- [Part 46](JS-Parts/JavaScript-P46/): Not Uploaded Yet
+- [Part 46](JS-Parts/JavaScript-P46/): More on "this"
 - [Part 47](JS-Parts/JavaScript-P47/): Not Uploaded Yet
 - [Part 48](JS-Parts/JavaScript-P48/): Not Uploaded Yet
 - [Part 49](JS-Parts/JavaScript-P49/): Not Uploaded Yet
