@@ -54,7 +54,7 @@ Welcome to my JavaScript Learning Notes Repository!
 - [Part 48](JS-Parts/JavaScript-P48/): Exceptions Throw, Catch, Finally
 - [Part 49](JS-Parts/JavaScript-P49/): Constructor
 - [Part 50](JS-Parts/JavaScript-P50/): Constructor Function vs. Factory Function
-- [Part 51](JS-Parts/JavaScript-P51/): Not Uploaded Yet
+- [Part 51](JS-Parts/JavaScript-P51/): Intro to Inheritance
 - [Part 52](JS-Parts/JavaScript-P52/): Not Uploaded Yet
 - [Part 53](JS-Parts/JavaScript-P53/): Not Uploaded Yet
 - [Part 54](JS-Parts/JavaScript-P54/): Not Uploaded Yet
