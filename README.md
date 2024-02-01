@@ -56,7 +56,7 @@ Welcome to my JavaScript Learning Notes Repository!
 - [Part 50](JS-Parts/JavaScript-P50/): Constructor Function vs. Factory Function
 - [Part 51](JS-Parts/JavaScript-P51/): Intro to Inheritance
 - [Part 52](JS-Parts/JavaScript-P52/): Inheritance
-- [Part 53](JS-Parts/JavaScript-P53/): Not Uploaded Yet
+- [Part 53](JS-Parts/JavaScript-P53/): Polymorphism
 - [Part 54](JS-Parts/JavaScript-P54/): Not Uploaded Yet
 - [Part 55](JS-Parts/JavaScript-P55/): Not Uploaded Yet
 - [Part 56](JS-Parts/JavaScript-P56/): Not Uploaded Yet
