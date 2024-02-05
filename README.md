@@ -57,7 +57,7 @@ Welcome to my JavaScript Learning Notes Repository!
 - [Part 51](JS-Parts/JavaScript-P51/): Intro to Inheritance
 - [Part 52](JS-Parts/JavaScript-P52/): Inheritance
 - [Part 53](JS-Parts/JavaScript-P53/): Polymorphism
-- [Part 54](JS-Parts/JavaScript-P54/): Not Uploaded Yet
+- [Part 54](JS-Parts/JavaScript-P54/): More on Constructor
 - [Part 55](JS-Parts/JavaScript-P55/): Not Uploaded Yet
 - [Part 56](JS-Parts/JavaScript-P56/): Not Uploaded Yet
 - [Part 57](JS-Parts/JavaScript-P57/): Not Uploaded Yet
