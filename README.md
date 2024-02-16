@@ -60,7 +60,7 @@ Welcome to my JavaScript Learning Notes Repository!
 - [Part 54](JS-Parts/JavaScript-P54/): More on Constructor
 - [Part 55](JS-Parts/JavaScript-P55/): More on Inheritance
 - [Part 56](JS-Parts/JavaScript-P56/): More on Inheritance (Properties)
-- [Part 57](JS-Parts/JavaScript-P57/): Not Uploaded Yet
+- [Part 57](JS-Parts/JavaScript-P57/): Converting Object Literals to Constructors
 - [Part 58](JS-Parts/JavaScript-P58/): Not Uploaded Yet
 - [Part 59](JS-Parts/JavaScript-P59/): Not Uploaded Yet
 - [Part 60](JS-Parts/JavaScript-P60/): Not Uploaded Yet
