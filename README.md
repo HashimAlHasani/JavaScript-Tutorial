@@ -61,8 +61,8 @@ Welcome to my JavaScript Learning Notes Repository!
 - [Part 55](JS-Parts/JavaScript-P55/): More on Inheritance
 - [Part 56](JS-Parts/JavaScript-P56/): More on Inheritance (Properties)
 - [Part 57](JS-Parts/JavaScript-P57/): Converting Object Literals to Constructors
-- [Part 58](JS-Parts/JavaScript-P58/): Not Uploaded Yet
-- [Part 59](JS-Parts/JavaScript-P59/): Not Uploaded Yet
+- [Part 58](JS-Parts/JavaScript-P58/): HTML Essentials altering using JavaScript
+- [Part 59](JS-Parts/JavaScript-P59/): CSS Essentials altering using JavaScript
 - [Part 60](JS-Parts/JavaScript-P60/): Not Uploaded Yet
 - [Part 61](JS-Parts/JavaScript-P61/): Not Uploaded Yet
 - [Part 62](JS-Parts/JavaScript-P62/): Not Uploaded Yet

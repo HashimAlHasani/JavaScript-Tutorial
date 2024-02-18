@@ -1,0 +1,21 @@
+* {
+    background-color: lightblue;
+}
+
+button {
+    background-color: greenyellow !important;
+    border: 2px solid black;
+}
+
+button {
+    background-color: antiquewhite;
+}
+
+.border {
+    border: 5px solid black;
+}
+
+
+#special {
+    color: green;
+}
