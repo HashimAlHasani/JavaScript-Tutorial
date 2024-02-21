@@ -64,7 +64,7 @@ Welcome to my JavaScript Learning Notes Repository!
 - [Part 58](JS-Parts/JavaScript-P58/): HTML Essentials altering using JavaScript
 - [Part 59](JS-Parts/JavaScript-P59/): CSS Essentials altering using JavaScript
 - [Part 60](JS-Parts/JavaScript-P60/): DOM - Document Object Model
-- [Part 61](JS-Parts/JavaScript-P61/): Not Uploaded Yet
+- [Part 61](JS-Parts/JavaScript-P61/): More on DOM
 - [Part 62](JS-Parts/JavaScript-P62/): Not Uploaded Yet
 - [Part 63](JS-Parts/JavaScript-P63/): Not Uploaded Yet
 - [Part 64](JS-Parts/JavaScript-P64/): Not Uploaded Yet
