@@ -69,7 +69,7 @@ Welcome to my JavaScript Learning Notes Repository!
 - [Part 63](JS-Parts/JavaScript-P63/): More on DOM - childNodes
 - [Part 64](JS-Parts/JavaScript-P64/): More on DOM - Changing Elements
 - [Part 65](JS-Parts/JavaScript-P65/): More on DOM - Attributes
-- [Part 66](JS-Parts/JavaScript-P66/): Not Uploaded Yet
+- [Part 66](JS-Parts/JavaScript-P66/): More on DOM - Attributes
 
 ## About This Repository
 
